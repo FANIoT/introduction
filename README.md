@@ -11,3 +11,4 @@ In this introduction, we want to introduce its features and Avidnet Business Pla
 ## Special Thanks
 
 ## Selected References
+- Iman Tabrizian: IoT application center idea
