@@ -1,7 +1,7 @@
 # Introduction to FANIoT
 [![Travis](https://img.shields.io/travis/com/FANIoT/introduction.svg?style=flat-square)](https://travis-ci.com/FANIoT/introduction)
 
-![FANIoT]('logo/Logo_P1.png')
+![FANIoT](logo/Logo_P1.png)
 
 ## Introduction
 FANIoT is a basis for all Avidnet IoT solutions. FANIoT supports multiple interfaces and aims to provide a better way for
