@@ -1,6 +1,13 @@
 .logo {
         position: absolute;
-        top: 0;
         left: 0;
         height: 100px;
+}
+
+.logo.top {
+        top: 0;
+}
+
+.logo.buttom {
+        bottom: 0;
 }
